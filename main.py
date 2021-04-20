@@ -26,8 +26,10 @@ index = 0
 while success:
 	index += 1
 	print(index)
-	print((str(timedelta(milliseconds = index * 100 / 3))[:11] + " --> " + str(timedelta(milliseconds = (index + 1) * 100 / 3))[:11]).replace('.', ','))
+	print((str(timedelta(milliseconds = index * 100))[:11] + " --> " + str(timedelta(milliseconds = (index + 1) * 100))[:11]).replace('.', ','))
 	I2T(BytesIO(imencode(".jpg", resize(image, (24, 32), interpolation = 3))[1]))
 	print()
+	vidcap.read()
+	vidcap.read()
 	success, image = vidcap.read()
 	
