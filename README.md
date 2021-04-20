@@ -11,3 +11,5 @@ Run `python3 main.py > badapple.srt`
 ## Install dependencies
 
 `pip3 install opencv-python Pillow`
+
+There is also [a branch compatible with youtube](https://github.com/donno2048/mp4-to-subs/tree/youtube)
