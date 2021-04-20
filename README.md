@@ -1,6 +1,10 @@
 # mp4-to-subs
 
-Turn mp4 input into subtitles
+Turn mp4 input into subtitles compatible for youtube.
+
+## Demo
+
+https://www.youtube.com/watch?v=o9eNY1_9mis
 
 ## Usage
 
