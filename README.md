@@ -2,6 +2,9 @@
 
 Turn mp4 input into subtitles
 
+There is also a unicode-art version (not captions) with high resolution [here](https://github.com/donno2048/mp4-to-unicode)
+
+
 ## Usage
 
 Run `python3 main.py > badapple.srt`
