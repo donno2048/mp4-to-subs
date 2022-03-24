@@ -4,7 +4,7 @@ from datetime import timedelta
 from cv2 import VideoCapture, imencode, resize
 from io import BytesIO
 from numpy import array
-SPACES = False # wheter to use spaces or not
+SPACES = False # whether to use spaces or not
 file = open(argv[1], "w", encoding='utf8')
 def I2T(File):
 	im = imopen(File)
