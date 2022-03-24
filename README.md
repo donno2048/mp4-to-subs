@@ -20,3 +20,5 @@ Run `python3 main.py > badapple.srt`
 There is also [a branch compatible with youtube](https://github.com/donno2048/mp4-to-subs/tree/youtube) and a [demo](https://www.youtube.com/watch?v=o9eNY1_9mis)
 
 There is also [a branch compatible with vtt for youtube](https://github.com/donno2048/mp4-to-subs/tree/vtt) with higher resolution and a [demo](https://www.youtube.com/watch?v=V6jGTFwRf00)
+
+There is also [a branch compatible with braille for youtube](https://github.com/donno2048/mp4-to-subs/tree/braille) and a [demo](https://youtu.be/nYYAeVdEu8Q)
