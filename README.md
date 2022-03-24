@@ -1,6 +1,12 @@
 # mp4-to-subs
 
-Turn mp4 input into subtitles
+Turn mp4 input into subtitles compatible for youtube.
+
+There is also a unicode-art version (not captions) with high resolution [here](https://github.com/donno2048/mp4-to-unicode)
+
+## Demo
+
+https://www.youtube.com/watch?v=o9eNY1_9mis
 
 There is also a unicode-art version (not captions) with high resolution [here](https://github.com/donno2048/mp4-to-unicode)
 
