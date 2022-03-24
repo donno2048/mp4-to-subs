@@ -6,6 +6,8 @@ There is also a unicode-art version (not captions) with high resolution [here](h
 
 ## Demo
 
+https://youtu.be/nYYAeVdEu8Q
+
 ## Usage
 
 Run `python3 main.py badapple.srt`
